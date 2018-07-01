@@ -19,7 +19,9 @@ import static android.support.test.espresso.action.ViewActions.click;
 import static android.support.test.espresso.action.ViewActions.closeSoftKeyboard;
 import static android.support.test.espresso.action.ViewActions.typeText;
 import static android.support.test.espresso.matcher.ViewMatchers.withId;
-
+/**
+ * UI test for delete contact activity
+ */
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 

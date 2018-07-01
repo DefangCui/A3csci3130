@@ -5,6 +5,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+/**
+ * Class that user can use update button and delete button
+ * to update or delete contact information
+ */
 
 public class DetailViewActivity extends Activity {
 

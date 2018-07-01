@@ -5,6 +5,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+/**
+ * Class that contains the code that create new contact and
+ * uploaded to the firebase
+ */
 
 public class CreateContactAcitivity extends Activity {
 
